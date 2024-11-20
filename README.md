@@ -1,1 +1,1 @@
-# EntornsT03_Arnau
+"Repositori de practica per la tasca d'Entorns"
